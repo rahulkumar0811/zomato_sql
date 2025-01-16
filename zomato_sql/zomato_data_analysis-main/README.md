@@ -16,7 +16,7 @@ This repository is structured as follows:
 	- [`sales.csv`](https://github.com/rahulkumar0811/zomato_sql/blob/main/zomato_sql/zomato_data_analysis-main/sales.csv)
 	- [`users.csv`](https://github.com/rahulkumar0811/zomato_sql/blob/main/zomato_sql/zomato_data_analysis-main/users.csv) 
 	- [`gold_users.csv`](https://github.com/rahulkumar0811/zomato_sql/blob/main/zomato_sql/zomato_data_analysis-main/gold_users.csv)
-- SQL script file [`zomato_analysis.sql`](https://github.com/chinmoy2306/zomato_data_analysis/blob/093541fe9dbfcc8e9b3823a7601134e172a4b397/zomato_analysis.sql): 
+- SQL script file [`zomato_analysis.sql`](https://github.com/rahulkumar0811/zomato_sql/blob/main/zomato_sql/zomato_data_analysis-main/zomato_analysis.sql): 
 	- This SQL script contains the queries used for data analysis on the Zomato dataset.
 	- The queries cover various aspects, such as sales analysis, user segmentation, product categorization, etc.
 	- Feel free to explore the `zomato_analysis.sql` file to view the specific queries used in this analysis.
