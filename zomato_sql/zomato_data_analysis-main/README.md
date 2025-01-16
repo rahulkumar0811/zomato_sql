@@ -13,8 +13,8 @@ This repository is structured as follows:
 - Readme file: [`README.md`](https://github.com/rahulkumar0811/zomato_sql/edit/main/zomato_sql/zomato_data_analysis-main/README.md)
 - Raw dataset files:
 	- [`products.csv`](https://github.com/rahulkumar0811/zomato_sql/blob/main/zomato_sql/zomato_data_analysis-main/products.csv) 
-	- [`sales.csv`](https://github.com/chinmoy2306/zomato_data_analysis/blob/093541fe9dbfcc8e9b3823a7601134e172a4b397/sales.csv)
-	- [`users.csv`](https://github.com/chinmoy2306/zomato_data_analysis/blob/093541fe9dbfcc8e9b3823a7601134e172a4b397/users.csv) 
+	- [`sales.csv`](https://github.com/chinmoy2306/zomato_data_analysis/blob/093541fe9dbfcc8e9b3823a7601134e172a4b397/sales.cs)
+	- [`users.csv`](https://github.com/rahulkumar0811/zomato_sql/blob/main/zomato_sql/zomato_data_analysis-main/users.csv) 
 	- [`gold_users.csv`](https://github.com/chinmoy2306/zomato_data_analysis/blob/f643f754edf051d5c5303df7eb824cdbc95a5244/gold_users.csv)
 - SQL script file [`zomato_analysis.sql`](https://github.com/chinmoy2306/zomato_data_analysis/blob/093541fe9dbfcc8e9b3823a7601134e172a4b397/zomato_analysis.sql): 
 	- This SQL script contains the queries used for data analysis on the Zomato dataset.
