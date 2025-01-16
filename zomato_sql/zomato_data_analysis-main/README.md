@@ -12,7 +12,7 @@ The dataset used for this analysis consists of the following files:
 This repository is structured as follows:
 - Readme file: [`README.md`](https://github.com/rahulkumar0811/zomato_sql/edit/main/zomato_sql/zomato_data_analysis-main/README.md)
 - Raw dataset files:
-	- [`products.csv`](https://github.com/chinmoy2306/zomato_data_analysis/blob/093541fe9dbfcc8e9b3823a7601134e172a4b397/products.csv) 
+	- [`products.csv`](https://github.com/rahulkumar0811/zomato_sql/blob/main/zomato_sql/zomato_data_analysis-main/products.csv) 
 	- [`sales.csv`](https://github.com/chinmoy2306/zomato_data_analysis/blob/093541fe9dbfcc8e9b3823a7601134e172a4b397/sales.csv)
 	- [`users.csv`](https://github.com/chinmoy2306/zomato_data_analysis/blob/093541fe9dbfcc8e9b3823a7601134e172a4b397/users.csv) 
 	- [`gold_users.csv`](https://github.com/chinmoy2306/zomato_data_analysis/blob/f643f754edf051d5c5303df7eb824cdbc95a5244/gold_users.csv)
