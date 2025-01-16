@@ -10,7 +10,7 @@ The dataset used for this analysis consists of the following files:
 -	`gold_users.csv`: This file contains information about users who have subscribed to Zomato's premium gold membership.
 ## Project Structure
 This repository is structured as follows:
-- Readme file: [`README.md`](https://github.com/chinmoy2306/zomato_data_analysis/blob/093541fe9dbfcc8e9b3823a7601134e172a4b397/README.md)
+- Readme file: [`README.md`](https://github.com/rahulkumar0811/zomato_sql/edit/main/zomato_sql/zomato_data_analysis-main/README.md)
 - Raw dataset files:
 	- [`products.csv`](https://github.com/chinmoy2306/zomato_data_analysis/blob/093541fe9dbfcc8e9b3823a7601134e172a4b397/products.csv) 
 	- [`sales.csv`](https://github.com/chinmoy2306/zomato_data_analysis/blob/093541fe9dbfcc8e9b3823a7601134e172a4b397/sales.csv)
